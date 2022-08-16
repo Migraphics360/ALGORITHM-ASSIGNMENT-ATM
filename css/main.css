@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 50%;
+    height: 920px;
+    background-color: black;
+    margin: auto;
+    /* margin-top: 50px; */
+    position: sticky;
+    top: 0;
+}
+
+.wrapper .holder .image {
+    text-align: center;
+}
+
+.wrapper .holder .image img {
+    width: 200px;
+    height: 180px;
+    /*    */
+}
+
+.wrapper .holder h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.wrapper .start-img {
+    background-color: aqua;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    opacity: .9;
+}
+
+.wrapper .start-img img {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+
+}
+
+.wrapper .start-img h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.wrapper .start-img .inpuut {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.wrapper .start-img .inpuut input {
+    width: 150px;
+    height: 50px;
+
+}
+
+.wrapper .pin-link {
+    text-align: center;
+    margin-top: 40px;
+    
+
+}
+
+.wrapper .pin-link a {
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(209, 6, 6);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5PX;
+    position: sticky;
+    top: 0;
+    
+
+}
